@@ -14,8 +14,8 @@ In my free time, I do cross-country mountain climbing, run marathons, and play g
 
 - **Computer Vision:** image recognition, image generation, 
 - **3D Reconstruction:** Nerf(Neural Radiation Field), neural rendering
-- **HCI:** meta-learning, incremental learning, transfer learning
--  **VR:** meta-learning, incremental learning, transfer learning
+- **HCI:** 
+-  **VR:** 
 
 ## News
 
@@ -72,30 +72,29 @@ In my free time, I do cross-country mountain climbing, run marathons, and play g
 2023.8.11
 
 What ChatGPT Can and Cannot Do, and A Chat About AIGC（by Prof. Jiebo LUO）
-![在这里插入图片描述](https://github.com/QinghongShao-sqh/qinghong-shao/blob/main/assets/img/1.jpg)
+
 
 2023.8.7
 
 The First Earth Observation for Ecosystem，Infrasture，and City Workshop，Topic: Human-centered geospatial data analysis（by Prof Baixiao Yao）
-![在这里插入图片描述](https://github.com/QinghongShao-sqh/qinghong-shao/blob/main/assets/img/2.jpg)
+
 
 2023.8.4
 
 Modular Metacognitive Digital Twin Technologies for Greener Cities & Cleaner Mobility (by Dr Haoran ZHANG)
-![在这里插入图片描述](https://github.com/QinghongShao-sqh/qinghong-shao/blob/main/assets/img/3.jpg)
+
 
 
 2023.7
 
 Asia Pacific Art and Culture Technology Forum cum the Opening of Research Centre for Cultural and Art Technology Centre and PolyU-NVIDIA Joint Research Centre
-![在这里插入图片描述](https://github.com/QinghongShao-sqh/qinghong-shao/blob/main/assets/img/4.jpg)
-![在这里插入图片描述](https://github.com/QinghongShao-sqh/qinghong-shao/blob/main/assets/img/4.5.jpg)
+
 
 
 2023.6
 
 2023 6th International Conference on Computer Information Science and Application Technology 
-![在这里插入图片描述](https://github.com/QinghongShao-sqh/qinghong-shao/blob/main/assets/img/5.png)
+
 
 
 
