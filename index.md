@@ -18,12 +18,12 @@ In my free time, I do cross-country mountain climbing, run marathons, and play g
 
 
 ## News
-
-- **[Jun. 2023]** Our paper image generation is accepted to CISAT 2023.
   
 - **[Step. 2023]** I won the first scholarship for the fifth time!
   
 - **[Aug. 2023]** I am studying in the Hong Kong Polytechnic University as exchange student.
+
+- **[Jun. 2023]** Our paper image generation is accepted to CISAT 2023.
 
 - **[Dec. 2022]** Our paper about object detection is accepted to Electronic Science Technology and Application(ISSN:2424-8460).
 
