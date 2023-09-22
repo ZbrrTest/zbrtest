@@ -21,7 +21,7 @@ In my free time, I do cross-country mountain climbing, run marathons, and play g
   
 - **[Step. 2023]** I won the first scholarship for the fifth time!
   
-- **[Aug. 2023]** I am studying in the Hong Kong Polytechnic University as exchange student.
+- **[Aug. 2023]** I am studying in the Hong Kong Polytechnic University as an exchange student.
 
 - **[Jun. 2023]** Our paper image generation is accepted to CISAT 2023.
 
