@@ -7,7 +7,7 @@ main:
     pdf: https://github.com/QinghongShao-sqh/qinghong-shao/blob/main/assets/files/mypaper2.pdf
     code: https://github.com/QinghongShao-sqh
     bibtex: 
-    image: ./assets/img/paper_2.png
+    image: ./assets/img/paper2.png
 
 
   - title: "Image contour extraction and analysis based on edge detection algorithm"
