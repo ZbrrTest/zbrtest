@@ -65,27 +65,32 @@ In my free time, I do cross-country mountain climbing, run marathons, and play g
 ## Conference Activities
 
 2023.8.11
+
 What ChatGPT Can and Cannot Do, and A Chat About AIGC（by Prof. Jiebo LUO）
-![在这里插入图片描述](https://img-blog.csdnimg.cn/92ee64beb45b495782a15c3912afbee9.jpeg)
+![在这里插入图片描述](https://github.com/QinghongShao-sqh/qinghong-shao/blob/main/assets/img/1.jpg)
 
 2023.8.7
+
 The First Earth Observation for Ecosystem，Infrasture，and City Workshop，Topic: Human-centered geospatial data analysis（by Prof Baixiao Yao）
-![在这里插入图片描述](https://img-blog.csdnimg.cn/be0e1f4c0b0f440bb031e185e09234a3.jpeg)
+![在这里插入图片描述](https://github.com/QinghongShao-sqh/qinghong-shao/blob/main/assets/img/2.jpg)
 
 2023.8.4
+
 Modular Metacognitive Digital Twin Technologies for Greener Cities & Cleaner Mobility (by Dr Haoran ZHANG)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/7d2aa0f349784bb68f261588a3af96d2.jpeg)
+![在这里插入图片描述](https://github.com/QinghongShao-sqh/qinghong-shao/blob/main/assets/img/3.jpg)
 
 
 2023.7
+
 Asia Pacific Art and Culture Technology Forum cum the Opening of Research Centre for Cultural and Art Technology Centre and PolyU-NVIDIA Joint Research Centre
-![在这里插入图片描述](https://img-blog.csdnimg.cn/6cff957a1ee9498b8e7f5f56b8dead09.jpeg)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/4e25cc520a2841038413f1a6de0929d2.jpeg)
+![在这里插入图片描述](https://github.com/QinghongShao-sqh/qinghong-shao/blob/main/assets/img/4.jpg)
+![在这里插入图片描述](https://github.com/QinghongShao-sqh/qinghong-shao/blob/main/assets/img/4.5.jpg)
 
 
 2023.6
+
 2023 6th International Conference on Computer Information Science and Application Technology 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/3f90304a74f64fbcaf11a8c0e3233a4a.png)
+![在这里插入图片描述](https://github.com/QinghongShao-sqh/qinghong-shao/blob/main/assets/img/5.png)
 
 
 
