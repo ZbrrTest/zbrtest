@@ -6,8 +6,6 @@ layout: homepage
 
 I am a fourth year undergraduate student from the School of Software, Jiangxi Agricultural University. Before that, I used to work with Prof.  Yingqiong Peng .
 
-Now I am actively applying for phd in the United States. If you are interested in my research experience, I hope to receive your email!
-
 The scientific research projects I participated in at the university focused on using artificial intelligence to assist farmers in agricultural production. For example, I led the team to develop the "Sericulture Assisted Decision-making" software to provide "crop pest identification and management" services; using and optimizing three-dimensional reconstruction such as Nerf algorithms technology to better characterize and identify crops.
 
 My future research interests are in combining artificial intelligence technology with human-computer interaction (HCI) and virtual reality (VR).
@@ -38,6 +36,45 @@ I want to be able to use artificial intelligence technology with a group of ambi
 - **[Aug. 2023]** I am studying in the Hong Kong Polytechnic University as exchange student.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+
+## Competitions
+- 2023.3 China Collegiate Algorithm Design&Programming Challenge Contest-------Bronze Medal
+
+- 2022.12 I won the "National Inspirational Scholarship"
+
+- 2022.5 The 13th Lanqiao Cup National Software and Information Technology Professional Talent Competition Jiangxi Division C/C++ Programming University Group B ------- First Prize
+
+- 2022.5 "Sang Zhidao - Intelligent Decision-making System for Sericulture Experts Based on Image Recognition" won the ------- third prize in the China College Student Computer Design Competition
+
+- 2021.12 Asia and Pacific Mathematical Contest in Modeling Certificate of Achievement-------Second Prize
+
+- 2021.12 "Network Virtual Service Willingness to Pay and Satisfaction Survey" won the second prize in the 9th "Huachuang Cup" Survey Analysis Competition of Jiangxi Province
+
+- 2021.11 Won the second-class scholarship for the second semester of the 2020-2021 academic year
+- 2021.5 Won the first-class scholarship for the first semester of the 2020-2021 academic year
+
+- 2022.5 Won the first-class scholarship for the second semester of the 2021-2022 academic year
+- 2022.11 Won the first-class scholarship for the first semester of the 2021-2022 school year
+
+- 2021.2 I passed the Japanese JLPT language test-------N2 level
+
+- 2023 ""Sangzhidao" Sericulture Expert Intelligent Decision-making System" software successfully passed the registration of computer software copyright by the National Copyright Administration
+
+- 2023 "Tete Fruit Trading Platform" software successfully passed the registration of computer software copyright by the National Copyright Administration
+
+- 2022.3 The "Agricultural University Second-hand Trading Platform" software successfully passed the computer software copyright registration with the National Copyright Administration
+
+- 2022 The "Pork Rib Image Recognition System" software successfully passed the registration of computer software copyright by the National Copyright Administration
+
+- 2022.1 "LV Travel Assistant" software successfully passed the computer software copyright registration with the National Copyright Administration
+
+
+## Conference Activities
+
+
+
