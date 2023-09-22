@@ -27,7 +27,7 @@ In my free time, I do cross-country mountain climbing, run marathons, and play g
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
 
 
 ## Competitions
