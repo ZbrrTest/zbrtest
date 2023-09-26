@@ -34,7 +34,7 @@ In my free time, I do cross-country mountain climbing, run marathons, and play g
 ## Fantastic Project
 I highly recommend browsing my past projects,if you want to know more about me!!!
 
-- I used a microcontroller for development, completed the Snake game, and implemented functions such as infrared communication, addition, subtraction, multiplication, and division.[Demo Video]([https://markdown.com.cn](https://www.bilibili.com/video/BV1tK4y1D7k3/?spm_id_from=333.999.0.0&vd_source=03387e75fde3d924cb207c0c18ffa567))
+- I used a microcontroller for development, completed the Snake game, and implemented functions such as infrared communication, addition, subtraction, multiplication, and division.[Demo Video](https://www.bilibili.com/video/BV1tK4y1D7k3/?spm_id_from=333.999.0.0&vd_source=03387e75fde3d924cb207c0c18ffa567)
 ![Demo Photo](tree/main/assets/img/dpj.png "microcontroller")
 
 ## Competitions
