@@ -115,7 +115,7 @@ My friends and I carried out the "Network Virtual Service Willingness to Pay and
   [Demo Video](https://studio.youtube.com/video/wSKGgVDLMZs/edit)
 
 - ####  [My Blog](https://blog.csdn.net/qq_40514113)
-I run my blog on the CSDN platform and currently have 3,600+ fans and nearly 7,000 visits.
+I run my blog on the CSDN platform and currently have 3,600+ fans and nearly 70,000 visits.
 I will update some of my notes on software development, computer vision, 3D reconstruction, and VR/AR.
 
 ## Competitions
