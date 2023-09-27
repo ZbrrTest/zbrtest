@@ -31,7 +31,7 @@ In my free time, I do cross-country mountain climbing, run marathons, and play g
 
 
 {% include_relative _includes/publications.md %}
-## Fantastic Project
+## My Project
 I highly recommend browsing my past projects,if you want to know more about me!!!
 
 
@@ -43,6 +43,7 @@ At the same time, this project has a strong relationship with a national innovat
 - #### Sericulture expert intelligent decision-making system
 I led the team members to develop the "Sangzhidao" Sericulture Expert Intelligent Decision-making System", which is a system that provides farmers with identification and treatment plans for mulberry tree diseases and insect pests. It is designed to help farmers improve production efficiency. The system has been initially developed and has not yet been completed release.
 [Demo Video](https://www.youtube.com/watch?v=WuoXMpO01r4)
+
   My main responsibilities: * pest and disease identification models, App software development, mulberry tree, pest and disease data processing *.
 
   At present, I have obtained the "software copyright" of the relevant system version from the National Copyright Protection Center.
@@ -68,18 +69,18 @@ I used a microcontroller for development, completed the Snake game, and implemen
 I led my friends to develop a travel assistance app - LV Travel Assistant. Its functions include location and check-in of travel locations, bill records, and diary records.
 [Demo Video](https://www.youtube.com/watch?v=7hapXiUN-1M)
 
-At present, I have obtained the "software copyright" of the relevant software version from the National Copyright Protection Center.
+  At present, I have obtained the "software copyright" of the relevant software version from the National Copyright Protection Center.
 
 - #### Campus second-hand trading platform
 I led my friends to develop a campus second-hand trading platform that can help students on our campus trade second-hand idle items.
 It had been released before and was used by classmates, but it was later closed due to technical and maintenance costs.
 
-At present, I have obtained the "software copyright" of the relevant software version from the National Copyright Protection Center.
+  At present, I have obtained the "software copyright" of the relevant software version from the National Copyright Protection Center.
 
 - #### Fruit trading platform
 I led my friends to develop a fruit trading platform to help local farmers sell fruits better through the platform.
 
-At present, I have obtained the "software copyright" of the relevant software version from the National Copyright Protection Center.
+  At present, I have obtained the "software copyright" of the relevant software version from the National Copyright Protection Center.
 
 - #### Survey on willingness to pay and satisfaction with network virtual services - paper
 My friends and I carried out the "Network Virtual Service Willingness to Pay and Satisfaction Survey" activity, in which I was responsible for data processing and calculations, as well as using various models, such as principal component analysis (PCA) and other methods to analyze the relevant survey results, and completed A survey paper won the second prize in the 9th Jiangxi Province "Huachuang Cup" Survey Analysis Competition.
