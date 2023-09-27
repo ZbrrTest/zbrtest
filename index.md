@@ -80,6 +80,7 @@ I used a microcontroller for development, completed the Snake game, and implemen
 
 - #### LV whereabouts - travel assistant
 I led my friends to develop a travel assistance app - LV Travel Assistant. Its functions include location and check-in of travel locations, bill records, and diary records.
+
   [Demo Video](https://www.youtube.com/watch?v=7hapXiUN-1M)
 
   At present, I have obtained the "software copyright" of the relevant software version from the National Copyright Protection Center.
