@@ -96,14 +96,14 @@ I led my friends to develop a fruit trading platform to help local farmers sell 
 
   At present, I have obtained the "software copyright" of the relevant software version from the National Copyright Protection Center.
   
-  [My Manuscript——English](https://github.com/QinghongShao-sqh/qinghong-shao/blob/main/assets/files/Tete%20Fruit%20Trading%20Platform%20User%20Manual%20-%20Chinese.pdf)
+  [My Manuscript——Chines](https://github.com/QinghongShao-sqh/qinghong-shao/blob/main/assets/files/Tete%20Fruit%20Trading%20Platform%20User%20Manual%20-%20Chinese.pdf)
   
 
 - #### Survey on willingness to pay and satisfaction with network virtual services - paper
 My friends and I carried out the "Network Virtual Service Willingness to Pay and Satisfaction Survey" activity, in which I was responsible for data processing and calculations, as well as using various models, such as principal component analysis (PCA) and other methods to analyze the relevant survey results, and completed A survey paper won the second prize in the 9th Jiangxi Province "Huachuang Cup" Survey Analysis Competition.
 
 
-  [My Manuscript——English](https://github.com/QinghongShao-sqh/qinghong-shao/blob/main/assets/files/Survey%20on%20willingness%20to%20pay%20and%20satisfaction%20with%20network%20virtual%20services%20-%20Chinese.pdf)
+  [My Manuscript——Chinese](https://github.com/QinghongShao-sqh/qinghong-shao/blob/main/assets/files/Survey%20on%20willingness%20to%20pay%20and%20satisfaction%20with%20network%20virtual%20services%20-%20Chinese.pdf)
 
 
 - #### 3D holographic projection device (DIY).
