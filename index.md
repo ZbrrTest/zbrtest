@@ -119,13 +119,14 @@ I run my blog on the CSDN platform and currently have 3,600+ fans and nearly 70,
 I will update some of my notes on software development, computer vision, 3D reconstruction, and VR/AR.
 
 ## Competitions
-- 2023.3 China Collegiate Algorithm Design&Programming Challenge Contest-------Bronze Medal
 
 - 2022.12 I won the "National Inspirational Scholarship"
 
 - 2022.5 The 13th Lanqiao Cup National Software and Information Technology Professional Talent Competition Jiangxi Division C/C++ Programming University Group B ------- First Prize
 
 - 2022.5 "Sang Zhidao - Intelligent Decision-making System for Sericulture Experts Based on Image Recognition" won the ------- third prize in the China College Student Computer Design Competition
+
+- 2022.3 China Collegiate Algorithm Design&Programming Challenge Contest-------Bronze Medal
 
 - 2021.12 Asia and Pacific Mathematical Contest in Modeling Certificate of Achievement-------Second Prize
 
