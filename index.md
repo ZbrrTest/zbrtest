@@ -44,7 +44,7 @@ At the same time, this project has a strong relationship with a national innovat
 I led the team members to develop the "Sangzhidao" Sericulture Expert Intelligent Decision-making System", which is a system that provides farmers with identification and treatment plans for mulberry tree diseases and insect pests. It is designed to help farmers improve production efficiency. The system has been initially developed and has not yet been completed release.
 [Demo Video](https://www.youtube.com/watch?v=WuoXMpO01r4)
 
-  My main responsibilities: * pest and disease identification models, App software development, mulberry tree, pest and disease data processing *.
+  My main responsibilities:  pest and disease identification models, App software development, mulberry tree, pest and disease data processing .
 
   At present, I have obtained the "software copyright" of the relevant system version from the National Copyright Protection Center.
 
