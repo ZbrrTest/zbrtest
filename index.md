@@ -14,7 +14,7 @@ In my free time, I do cross-country mountain climbing, run marathons, and play g
 
 - **Computer Vision:** image recognition, image generation, 
 - **3D Reconstruction:** Nerf(Neural Radiation Field), neural rendering,virtual reality(VR),augmented reality(AR)
-- **HCI:** Human-Computer Interaction (HCI), Human-LLM Interaction
+- **HCI:** Human-Computer Interaction (HCI)
 
 
 ## News
