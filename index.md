@@ -34,8 +34,25 @@ In my free time, I do cross-country mountain climbing, run marathons, and play g
 ## Fantastic Project
 I highly recommend browsing my past projects,if you want to know more about me!!!
 
-- I used a microcontroller for development, completed the Snake game, and implemented functions such as infrared communication, addition, subtraction, multiplication, and division.[Demo Video](https://www.bilibili.com/video/BV1tK4y1D7k3/?spm_id_from=333.999.0.0&vd_source=03387e75fde3d924cb207c0c18ffa567)
+
+- #### VR smart farm system——graduation thesis project
+I am currently working on my graduation thesis project, which is an online 3D smart farm where users can interact with VR devices.
+The significance of this project is to provide farmers with a real farm environment to teach and guide them how to manage pest problems on their farms.
+At the same time, this project has a strong relationship with a national innovation and entrepreneurship project for college students that I lead.
+
+- #### Sericulture expert intelligent decision-making system
+I led the team members to develop the "Sangzhidao" Sericulture Expert Intelligent Decision-making System", which is a system that provides farmers with identification and treatment plans for mulberry tree diseases and insect pests. It is designed to help farmers improve production efficiency. The system has been initially developed and has not yet been completed. release.
+
+My main responsibilities: * pest and disease identification models, App software development, mulberry tree, pest and disease data processing *.
+
+At present, I have obtained the "software copyright" of the relevant system version from the National Copyright Protection Center.
+
+
+-Microcontroller programming
+I used a microcontroller for development, completed the Snake game, and implemented functions such as infrared communication, addition, subtraction, multiplication, and division.[Demo Video](https://www.bilibili.com/video/BV1tK4y1D7k3/?spm_id_from=333.999.0.0&vd_source=03387e75fde3d924cb207c0c18ffa567)
 ![Demo Photo](tree/main/assets/img/dpj.png "microcontroller")
+
+
 
 ## Competitions
 - 2023.3 China Collegiate Algorithm Design&Programming Challenge Contest-------Bronze Medal
