@@ -23,7 +23,7 @@ In my free time, I do cross-country mountain climbing, run marathons, and play g
   
 - **[Aug. 2023]** I am studying in the Hong Kong Polytechnic University as an exchange student.
 
-- **[Jun. 2023]** Our paper image generation is accepted to CISAT 2023.
+- **[Jun. 2023]** Our paper about image generation is accepted to CISAT 2023.
 
 - **[Dec. 2022]** Our paper about object detection is accepted to Electronic Science Technology and Application(ISSN:2424-8460).
 
