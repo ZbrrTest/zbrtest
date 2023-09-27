@@ -34,7 +34,7 @@ In my free time, I do cross-country mountain climbing, run marathons, and play g
 ## My Project
 I highly recommend browsing my past projects,if you want to know more about me!!!
 
-（Professor, if you would like the English version of my manuscript, please let me know via email and I will send you the English version of the manuscript.）
+（if you would like the English version of my manuscript, please let me know via email and I will send you the English version of the manuscript.）
 
 - #### VR smart farm system——graduation thesis project
 I am currently working on my graduation thesis project, which is an online 3D smart farm where users can interact with VR devices.
