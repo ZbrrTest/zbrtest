@@ -8,14 +8,18 @@ I am a fourth year undergraduate student from the School of Software, Jiangxi Ag
 
 The scientific research projects I participated in at the university focused on using artificial intelligence to assist farmers in agricultural production. For example, I led the team to develop the "Sericulture Assisted Decision-making" software to provide "crop pest identification and management" services; using and optimizing three-dimensional reconstruction such as Nerf algorithms technology to better characterize and identify crops.
 
+During my undergraduate and ongoing graduate studies, I have developed a profound interest in the fields of computer vision and computer graphics, with a particular focus on three-dimensional reconstruction, 3D scene perception, image rendering, virtual reality, augmented reality, and software programming. My aspiration is to leverage these technologies to enhance robotic assistance in human activities, thereby enriching people’s interaction with virtual environments and improving access to quality education.
+
 In my free time, I do cross-country mountain climbing, run marathons, and play guitar and record music.
+
 
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, 
 - **3D Reconstruction:** NeRF(Neural Radiation Field), neural rendering,virtual reality(VR),augmented reality(AR)
 - **HCI:** Human-Computer Interaction (HCI)
-
+- **Software Engineering:** Programming education, AI-assisted programming
+- **Robot:** I work to help robots better perceive the world and interact with humans
 
 ## News
   
